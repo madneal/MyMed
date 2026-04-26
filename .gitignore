@@ -1,0 +1,10 @@
+.gradle/
+build/
+*/build/
+local.properties
+
+# IDE project metadata
+.idea/
+.idea/**
+*.iml
+.DS_Store
